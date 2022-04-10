@@ -32,5 +32,5 @@ You may direct any questions about the project to [JulesMcP](https://github.com/
 
 ## License
 
-This project was developed under the GNU license.
+This project was developed under the ISC license.
 [More information about ISC](https://opensource.org/licenses/ISC)
