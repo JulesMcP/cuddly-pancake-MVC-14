@@ -1,5 +1,7 @@
 # cuddly-pancake-MVC-14
 
+![License](https://img.shields.io/badge/License-ISC-blue)
+
 ## TABLE OF CONTENTS
 * [Introduction](#INTRODUCTION)
 * [GitHub & Heroku Links](#LINK)
@@ -9,9 +11,6 @@
 * [Contributions](#CONTRIBUTIONS)
 * [Contact](#CONTACT)
 * [License](#LICENSE)
-
-
-![License](https://img.shields.io/badge/License-ISC-blue)
 
 ## Introduction
 
